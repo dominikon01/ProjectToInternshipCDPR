@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\VisualStudio\\CDPR_00\\Source\\CDPR_00\\CDPR_00.Build.cs",
+		"D:\\VisualStudio\\CDPR_00\\Source\\CDPR_00.Target.cs",
+		"D:\\VisualStudio\\CDPR_00\\Source\\CDPR_00Editor.Target.cs"
+	],
+	"EngineVersion": "5.7.2"
+}

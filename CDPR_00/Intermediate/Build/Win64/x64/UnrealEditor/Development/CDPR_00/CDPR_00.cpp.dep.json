@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\visualstudio\\cdpr_00\\source\\cdpr_00\\cdpr_00.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\visualstudio\\cdpr_00\\intermediate\\build\\win64\\x64\\cdpr_00editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\visualstudio\\cdpr_00\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cdpr_00\\definitions.cdpr_00.h",
+            "d:\\visualstudio\\cdpr_00\\source\\cdpr_00\\cdpr_00.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

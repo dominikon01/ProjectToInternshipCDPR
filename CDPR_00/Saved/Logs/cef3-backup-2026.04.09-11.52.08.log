@@ -1,0 +1,41 @@
+[35832:43080:0409/131943.917:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[35832:43080:0409/131944.046:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29616:41120:0409/131948.794:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-35A2094228F294D25262508E4DF02B17 will be ignored
+[35832:43080:0409/131952.752:ERROR:device_event_log_impl.cc(196)] [13:19:52.736] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Nie można odnaleźć elementu. (0x490)
+[41900:37484:0409/133120.834:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-7AEDBB725D3F0DCC4204ED7D14FADC42 will be ignored
+[35832:43080:0409/133520.202:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+[35832:43080:0409/133520.203:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+[35832:43080:0409/133520.210:WARNING:sad_tab.cc(255)] Tab Killed: https://www.fab.com/
+[35832:43080:0409/133520.224:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[35832:43080:0409/133520.227:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[35832:43080:0409/133520.546:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[35832:43080:0409/133520.546:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[35832:43080:0409/133520.872:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 231 ms
+[43056:29996:0409/133535.838:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-FFEB4D67DD17D635A334343517A0BA56 will be ignored
+[39768:14048:0409/133608.618:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[39768:14048:0409/133608.817:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[39768:39228:0409/133609.135:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[39768:35284:0409/133609.151:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[39768:14048:0409/133609.205:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[39768:27964:0409/133609.271:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[39768:38820:0409/133609.436:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[39768:40384:0409/133610.917:ERROR:gl_utils.cc(415)] [.WebGL-000050B804BA4D00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[39768:40384:0409/133610.930:ERROR:gl_utils.cc(415)] [.WebGL-000050B804BA4D00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[35832:43080:0409/135208.562:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

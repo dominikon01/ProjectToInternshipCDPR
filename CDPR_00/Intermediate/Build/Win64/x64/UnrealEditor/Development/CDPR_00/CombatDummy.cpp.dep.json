@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\visualstudio\\cdpr_00\\source\\cdpr_00\\variant_combat\\gameplay\\combatdummy.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\visualstudio\\cdpr_00\\intermediate\\build\\win64\\x64\\cdpr_00editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\visualstudio\\cdpr_00\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cdpr_00\\definitions.cdpr_00.h",
+            "d:\\visualstudio\\cdpr_00\\source\\cdpr_00\\variant_combat\\gameplay\\combatdummy.h",
+            "d:\\visualstudio\\cdpr_00\\source\\cdpr_00\\variant_combat\\interfaces\\combatdamageable.h",
+            "d:\\visualstudio\\cdpr_00\\intermediate\\build\\win64\\unrealeditor\\inc\\cdpr_00\\uht\\combatdamageable.generated.h",
+            "d:\\visualstudio\\cdpr_00\\intermediate\\build\\win64\\unrealeditor\\inc\\cdpr_00\\uht\\combatdummy.generated.h",
+            "d:\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicsconstraintcomponent.h",
+            "d:\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintinstance.h",
+            "d:\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintdrives.h",
+            "d:\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
+            "d:\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintinstance.generated.h",
+            "d:\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\physicsconstraintcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

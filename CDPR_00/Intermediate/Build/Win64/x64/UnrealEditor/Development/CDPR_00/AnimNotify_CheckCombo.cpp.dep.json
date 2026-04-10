@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\visualstudio\\cdpr_00\\source\\cdpr_00\\variant_combat\\animation\\animnotify_checkcombo.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\visualstudio\\cdpr_00\\intermediate\\build\\win64\\x64\\cdpr_00editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\visualstudio\\cdpr_00\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cdpr_00\\definitions.cdpr_00.h",
+            "d:\\visualstudio\\cdpr_00\\source\\cdpr_00\\variant_combat\\animation\\animnotify_checkcombo.h",
+            "d:\\visualstudio\\cdpr_00\\intermediate\\build\\win64\\unrealeditor\\inc\\cdpr_00\\uht\\animnotify_checkcombo.generated.h",
+            "d:\\visualstudio\\cdpr_00\\source\\cdpr_00\\variant_combat\\interfaces\\combatattacker.h",
+            "d:\\visualstudio\\cdpr_00\\intermediate\\build\\win64\\unrealeditor\\inc\\cdpr_00\\uht\\combatattacker.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

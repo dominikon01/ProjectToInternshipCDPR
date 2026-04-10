@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\CDPR_00.uproject" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CDPR_00.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CDPR_00Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\CDPR_00">
+      <UniqueIdentifier>{CB0E8A2D-D30A-3010-825B-ECEF541CC859}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CDPR_00\CDPR_00.Build.cs">
+      <Filter>Source\CDPR_00</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CDPR_00\CDPR_00.cpp">
+      <Filter>Source\CDPR_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\CDPR_00.h">
+      <Filter>Source\CDPR_00</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\CDPR_00Character.cpp">
+      <Filter>Source\CDPR_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\CDPR_00Character.h">
+      <Filter>Source\CDPR_00</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\CDPR_00GameMode.cpp">
+      <Filter>Source\CDPR_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\CDPR_00GameMode.h">
+      <Filter>Source\CDPR_00</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\CDPR_00PlayerController.cpp">
+      <Filter>Source\CDPR_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\CDPR_00PlayerController.h">
+      <Filter>Source\CDPR_00</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\HealthComponent.cpp">
+      <Filter>Source\CDPR_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\HealthComponent.h">
+      <Filter>Source\CDPR_00</Filter>
+    </ClInclude>
+    <Filter Include="Source\CDPR_00\Variant_Combat">
+      <UniqueIdentifier>{23E490A6-E0CB-3A9F-99EA-5FC59DF6CCB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CDPR_00\Variant_Combat\AI">
+      <UniqueIdentifier>{369CDF07-166E-34A9-AFD2-D31F55E1B3A7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\AI\EnvQueryContext_Danger.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\AI\EnvQueryContext_Danger.h">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\CDPR_00\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\CDPR_00\Variant_Combat\Animation">
+      <UniqueIdentifier>{CBBA94B2-DC40-347E-975B-966BAAA3DA55}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\CDPR_00\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\CDPR_00\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\CDPR_00\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\CDPR_00\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{840E272C-D60F-3CAE-9C53-88B3BCBCA52E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\CDPR_00\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{AAD52C55-80A8-3BA3-8B7C-BCBF57A56151}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\CDPR_00\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\CDPR_00\Variant_Combat\UI">
+      <UniqueIdentifier>{E83513FD-7DBC-32E4-8392-C00B16A1A411}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\CDPR_00\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\CDPR_00\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\CDPR_00\Variant_Platforming">
+      <UniqueIdentifier>{114F5A16-3FED-3ECE-9416-739DCA73F8E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CDPR_00\Variant_Platforming\Animation">
+      <UniqueIdentifier>{4A118C22-EA48-3B6C-8089-92A8A149163E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\CDPR_00\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\CDPR_00\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\CDPR_00\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\CDPR_00\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\CDPR_00\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\CDPR_00\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\CDPR_00\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\CDPR_00\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\CDPR_00\Variant_SideScrolling">
+      <UniqueIdentifier>{1513D88D-7EF9-3F2B-A78C-7CC58BBE8AC4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CDPR_00\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{DD72B519-6F31-3834-991D-89770E44500F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\CDPR_00\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{2BF9BC51-F1B5-3824-9A0A-583B7EAF0000}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\CDPR_00\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{13F067BD-B5B5-3FF5-AB67-4E3CF301A20A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\CDPR_00\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{F01008C4-91F4-35C9-990F-BF648BBBFB18}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CDPR_00\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CDPR_00\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\CDPR_00\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

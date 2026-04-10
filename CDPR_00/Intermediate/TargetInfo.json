@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CDPR_00",
+			"Path": "..\\Source\\CDPR_00.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CDPR_00Editor",
+			"Path": "..\\Source\\CDPR_00Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
