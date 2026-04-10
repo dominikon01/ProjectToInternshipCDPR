@@ -4,7 +4,7 @@
 
 W projekcie zaimplementowałem:
 
-System zdrowia (HP)
+System zdrowia (HP) (C++)
 
 System wytrzymałości (Stamina) wraz z mechaniką sprintu
 
@@ -22,7 +22,7 @@ System zbieralnych obiektów (kulki) wraz z licznikiem
 
 In this project, I implemented:
 
-Health (HP) system
+Health system (HP) (C++)
 
 Stamina system with sprint mechanic
 
@@ -35,8 +35,4 @@ Enemy patrol system (moving between points in random order)
 Player detection system — enemies chase the player when spotted and attack when in range
 
 Collectible items (sphere) with a counter
-
-
-
-Only the health systen is created in C++
 
