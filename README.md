@@ -36,3 +36,7 @@ Player detection system — enemies chase the player when spotted and attack whe
 
 Collectible items (sphere) with a counter
 
+
+
+Only the health systen is created in C++
+
